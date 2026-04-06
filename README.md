@@ -105,8 +105,7 @@ The network uses a structured subnetting plan:
 
 ## 👤 Author
 
-**Syed Saif Ali**
-Software Engineering Student 
+Built by **Syed Saif Ali**
 
 ---
 
